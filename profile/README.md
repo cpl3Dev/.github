@@ -25,8 +25,14 @@
 ## 📊 Live GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechnicalDeveloper&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnicalDeveloper&layout=compact&theme=transparent&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=TechnicalDeveloper&show_icons=true&theme=transparent&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TechnicalDeveloper&layout=compact&theme=transparent&hide_border=true"
+    height="160"
+  />
 </p>
 
 ---
